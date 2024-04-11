@@ -1,0 +1,25 @@
+.conteudoLateralEsquerda{
+    color: rgb(32, 27, 27);
+    line-height: 70px;
+}
+
+.conteudoLateralEsquerda ul{
+    list-style-type: none;
+    height: 80px;
+    flex-direction: column;
+}
+
+.conteudoLateralEsquerda img{
+    margin: 20px;
+    width: 170px;
+    height: 70px;
+}
+
+ul li{
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-direction: row;
+    font-size: 20px;
+}
